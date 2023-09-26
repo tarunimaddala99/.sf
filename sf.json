@@ -1,0 +1,62 @@
+{
+  "orgs": {
+    "aarzoo.arora@upl-ltd.com.frccm": {
+      "username": "aarzoo.arora@upl-ltd.com.frccm",
+      "accessToken": "e5b58aa582c81b88fc16289c2f8cb9a9cefb7b38c14dffa441de16a6be085c2e20854defa031087844dfa7c49a89323416f777d1c3095cf2a553276e15028855d9ad2e8e702b16f9048da730998cd9ba1160f45d0e91d0af5276c58cb73403c5c356db4fac2a83ed7b5fb80d1ed38900ed87c4925f50:e7089b8df021a42b106d2ed40fb32392",
+      "instanceUrl": "https://upl--franceccm.my.salesforce.com",
+      "orgId": "00DO00000054GglMAE",
+      "loginUrl": "https://test.salesforce.com/",
+      "refreshToken": "af32e7f55043dc2ce5ea51b8150f917bba9901c5ab0660a4edbeebe7dfca4b78114e1539189f2aee2f5d61dc15ec2dddb09fbb0612d74444e14ac03c3a5b03644fa61379aac3bfa6153ce9c08dfd5658a055d1bb1f5e2b549c3791b598:0b4d5075a01b4ee4c6beecd95d055e2c",
+      "clientId": "PlatformCLI",
+      "instanceApiVersion": "55.0",
+      "instanceApiVersionLastRetrieved": "17/6/2022, 12:01:59 pm",
+      "timestamp": "2022-06-17T06:31:59.377Z"
+    },
+    "taruni.m@curious-wolf-s9tggg.com": {
+      "username": "taruni.m@curious-wolf-s9tggg.com",
+      "accessToken": "f8c231e6a7aaebf7951c33bc5e6051ccbbdd99e3f18d45cef6cc44033e1a4f9c9b059d54376292447d0e485a649e0a1803ac0e6fb9be2a91f117d4b2cb038de41a6638e70c438c02ac43bc964328082f58db5928b29f7d95842a4a88763a9a3f5d4feca647dc411bf6945aace0fcf66cbc1f44b09b18:08c24110ac4288ee6d70322aa41f58ec",
+      "instanceUrl": "https://curious-wolf-s9tggg-dev-ed.my.salesforce.com",
+      "orgId": "00D5g0000094tg8EAA",
+      "loginUrl": "https://login.salesforce.com/",
+      "refreshToken": "7061a2d67b5b091927c4a5fa1a3a417ff01f6503925f146ce9c4eb581f6d2f3e1f03f49412fcbb43991e5ce78be73007ed336aa9236ce060282dc7b6186c80e3385e58943b97fd7032f21ee3d7e298a86b9d306e511e1aab4925b1514a:3bb3edf6d8e356a0985302b8182e87e4",
+      "clientId": "PlatformCLI",
+      "instanceApiVersion": "55.0",
+      "instanceApiVersionLastRetrieved": "21/6/2022, 3:52:11 pm",
+      "timestamp": "2022-06-21T10:22:11.582Z",
+      "isDevHub": false
+    },
+    "tarunim@trainee.com": {
+      "username": "tarunim@trainee.com",
+      "accessToken": "8b4febe81f93d093b8e64fe3c1c9a0bd2b8a5a4fa1daad91130a859d16827e59c8a0cae157b80f0cd1fc9ed8e93cc71621abad94817ec6aa2c7de204ff04e87b440d976715a07adf08de9fc575bd51b4c553e394b84c557b3e0bb3a124f39594ae95546302e266be362e7bf4da6a65d7cd24fd076b97:eef3864e773b5d0a5b755366170f37ac",
+      "instanceUrl": "https://ror3-dev-ed.my.salesforce.com",
+      "orgId": "00D5g0000097fUIEAY",
+      "loginUrl": "https://login.salesforce.com/",
+      "refreshToken": "cb0e1ad5ec65209831667376fa2182551cd9470e702f7ab8e8d9c7060bc1676272efb410ea4c62a7f7702f5ea3d3fa2e76ae714d1bfccb37615bd72dc050fe28ab730275ed440f638e3d7765868acf7027a102fd780d1633f5dead7b88:19eab2b21eb4825d7e336978f8e61fa4",
+      "clientId": "PlatformCLI",
+      "instanceApiVersion": "54.0",
+      "instanceApiVersionLastRetrieved": "6/6/2022, 1:39:37 pm",
+      "timestamp": "2022-06-06T08:09:37.211Z"
+    },
+    "taruni.uce@creative-impala-65epvf.com": {
+      "username": "taruni.uce@creative-impala-65epvf.com",
+      "accessToken": "0802655d84c37d3e43afcf8aa1ad0be32335e4e1ccbc102ff09fc86b713a239640db1e3e7eb423451562401aa2cb627aebff39834c6d15b470c931397fbc009f0e0691a58ce573a287aa00ee2377afc4e4c325484d58441ebe5add28e0b79c3d8e23c2ab52cee20600622208db68ddaf3b3034f49561:eae405274c412ef61b47682ce795e897",
+      "instanceUrl": "https://creative-impala-65epvf-dev-ed.my.salesforce.com",
+      "orgId": "00D5g00000A2bPbEAJ",
+      "loginUrl": "https://login.salesforce.com/",
+      "refreshToken": "0915cd8ad9b0a0702d98c0752cf777a363fe961e767f4f370c8b2b09634e909847af74d470db289aac516c80b3e2bf8c70ae014344297f7b524216fd6fdf5b3ed74eb696d42d719e6e10936ad072d5e3c2338cb8ef9b1ca5f3da716e5b:c78cbad5fba6a9698157bea72067e09d",
+      "clientId": "PlatformCLI",
+      "isDevHub": false,
+      "instanceApiVersion": "55.0",
+      "instanceApiVersionLastRetrieved": "22/6/2022, 9:10:31 pm",
+      "timestamp": "2022-06-22T15:40:31.361Z"
+    }
+  },
+  "tokens": {},
+  "aliases": {
+    "HelloWorldLightningWebComponent": "tarunim@trainee.com",
+    "tara": "tarunim@trainee.com",
+    "taruni.m@trainee.com": "tarunim@trainee.com",
+    "vscodeOrg": "taruni.uce@creative-impala-65epvf.com"
+  },
+  "sandboxes": {}
+}
